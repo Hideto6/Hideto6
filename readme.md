@@ -1,4 +1,4 @@
-# 👋プロフィール
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">プロフィール
 　立命館大学で電子情報工学を学びながら、サークルでアプリ開発に取り組んでいます。React NativeやTypeScriptを使ったモバイル開発を中心に活動中です。
 ## 🌱経歴
 
