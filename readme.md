@@ -18,7 +18,7 @@
 
 ## 💻スキル
 
-- **プログラミング言語**：JavaScript / TypeScript / C言語 / MATLAB / Emacs
+- **プログラミング言語**：JavaScript / TypeScript / Python / C言語 / MATLAB / Emacs
 - **フレームワーク・ライブラリ**：React Native / React / Expo / next
 - **ツール・環境**：Git / GitHub / Figma / Firebase / VSCode 
 
