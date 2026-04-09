@@ -45,13 +45,10 @@
 
 ### 📱リツフレ - スクリーンショット
 <p align="center">
-  <img src="ritsumachi_1.jpg"  width="45%" />
-  <img src="ritsumachi_2.jpg"  width="45%" />
+  <img src="ritsumachi_1.png"  width="45%" />
+  <img src="ritsumachi_2.png"  width="45%" />
 </p>
 <p align="center">
-  <img src="ritsumachi_3.jpg"  width="45%" />
-  <img src="ritsumachi_4.jpg"  width="45%" />
-</p>
-<p align="center">
-  <img src="ritsumachi_5.jpg"  width="45%" />
+  <img src="ritsumachi_3.png"  width="45%" />
+  <img src="ritsumachi_4.png"  width="45%" />
 </p>
